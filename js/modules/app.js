@@ -652,8 +652,7 @@ Require.modules["app/ui/dashboard"] = function(exports, require) {
             email1: myUsername,
             email1_type: "equals",
             email1_assigned_to: 1,
-            email1_creator: 1,
-            email1_cc: 1});
+            email1_creator: 1});
   };
 
   var refreshCommand = {
